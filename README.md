@@ -4,7 +4,7 @@ This team work project implements and evaluates several ATPG (Automatic Test Pat
 
 ## Supported Features
 
-- **Logic Simulation (LSIM)**
+- **Logic Simulation (Logicsim)**
 - **Random Test Pattern Generation (RTPG)**
 - **Deterministic ATPG**
   - DALG
